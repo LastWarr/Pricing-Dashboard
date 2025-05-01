@@ -1,0 +1,17 @@
+admin:
+  name: admin
+  password: $2b$12$vWpMZcHOaHPR61UPb0P2KuoX8jhbThu5JdB2F4mQ6bpLWSRM0lyrq
+  role: admin
+arj:
+  name: arjun
+  password: $2b$12$JmUFb.wUP4eMxpnvkJp2iuSwCf2Se2Qa/MQJYvbAXWSPz7TgQc/6G
+  role: viewer
+credentials:
+  usernames: {}
+div:
+  name: divya
+  password: $2b$12$PYcBvZrMpJiRNkn3GYFLlOdYvotUNFt54vstv3xqDK1Wme9yaAvkW
+  role: editor
+divya:
+  name: Divyashree
+  password: $2b$12$/ltyC/E8/wRGoIHCFOQSN.jrKsBQ8mDjKxRcN8A3MdSlZSf79KcYu
